@@ -1,0 +1,14 @@
+# AI Governance Literature Archive
+
+> Static archive of 92 HTML articles on AI governance, transparency, regulation, and algorithmic accountability.
+
+Primary resources:
+- Index page: https://Ostrich121.github.io/scsrgzn/
+- Metadata JSON: https://Ostrich121.github.io/scsrgzn/paper-data.json
+- Full machine-readable catalog: https://Ostrich121.github.io/scsrgzn/llms-full.txt
+- Sitemap: https://Ostrich121.github.io/scsrgzn/sitemap.xml
+
+Usage notes:
+- Start from the index page or the full catalog to discover article URLs.
+- Open each article HTML URL directly to read the full source text.
+- The homepage cards are summaries; the article pages hold the full text.
